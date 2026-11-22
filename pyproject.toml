@@ -1,0 +1,7 @@
+[project]
+name = "cpu-service-request-system"
+version = "0.1.0"
+description = "Development and deployment of an internal servicing request system to be used by the VPA and corresponding units under them"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
