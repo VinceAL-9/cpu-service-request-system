@@ -12,4 +12,5 @@ git branch --set-upstream-to=origin/<branch> <branch>
 
 uv lock
 uv sync
+.venv/Scripts/activate
 ```
